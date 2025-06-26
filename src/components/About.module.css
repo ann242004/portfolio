@@ -1,0 +1,27 @@
+.about{
+    font-size: 90px;
+    font-weight: bolder;
+    color: #f6e989;
+    padding-left: 150px;
+    padding-top: 80px;
+}
+.about_text{
+    font-size: 19px;
+    color: #000066;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: system-ui, -apple-system, sans-serif;
+}
+
+.education{
+    padding-left: 200px;
+    font-size: 21px;
+    color: #000066;
+    font-weight:700;
+}
+.education p{
+    margin-left: 70px;
+    font-size: 19px;
+    color: #000066;
+    font-weight: 400;
+}
