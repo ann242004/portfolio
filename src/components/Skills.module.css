@@ -99,6 +99,7 @@
 
 .skillCard {
   /* background: linear-gradient(135deg, #f6e989 0%, #e6db8c 100%); */
+  font-size: 21px;
   background-color: #e6db8c;
   border: 1px solid rgba(139, 115, 85, 0.12);
   border-radius: 16px;
@@ -123,6 +124,7 @@
   width: 100%;
   height: 100%;
   transition: left 0.6s ease-out;
+  font-size: 21px;
 }
 
 .skillCard::after {
@@ -136,10 +138,11 @@
   transition: all 0.4s ease-out;
   transform: translateX(-50%);
   border-radius: 1.5px;
+  font-size: 21px;
 }
 
 .skillName {
-  font-size: 1rem;
+  font-size: 21px;
   font-weight: 600;
   color: #000066;
   letter-spacing: 0.025em;
