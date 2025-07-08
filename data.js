@@ -12,7 +12,7 @@ const projects=[
     title: "Automated attendance system",
     description: "Automated attendance system is a web application that uses facial recognition to track attendance of students in a class by capturing a group photo of the students and then comparing it with the images of students stored in the database.",
     technology: ["Python", "Yolo V11", "Flask","Php"],
-    githubLink: "https://github.com/ann242004/automated-attendance-system"
+    githubLink: "https://github.com/ann242004/Automated-attendance-system"
 },
 
 {
