@@ -25,7 +25,9 @@ function Home() {
     <p className={styles.greeting}>Hello, I'm Ann,</p>
     <h1 className={styles.title}>Web Developer</h1>
     <p className={styles.location}>B.Tech 4th year Computer Science student</p>
-    <button className={styles.resume_btn}>Resume</button>
+    <a href="/ANN.K.S.pdf" target="_blank" rel="noopener noreferrer">
+  <button className={styles.resume_btn}>Resume</button>
+</a>
   </motion.div>
 
   <motion.div
